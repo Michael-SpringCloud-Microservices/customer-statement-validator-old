@@ -1,0 +1,51 @@
+<records>
+  <record reference="187997">
+    <accountNumber>NL91RABO0315273637</accountNumber>
+    <description>Clothes for Rik King</description>
+    <startBalance>57.6</startBalance>
+    <mutation>-32.98</mutation>
+    <endBalance>24.62</endBalance>
+  </record>
+  <record reference="154270">
+    <accountNumber>NL56RABO0149876948</accountNumber>
+    <description>Candy for Peter de Vries</description>
+    <startBalance>Michael</startBalance>
+    <mutation>-939</mutation>
+    <endBalance>4490</endBalance>
+  </record>
+  <record reference="162197">
+    <accountNumber>NL90ABNA0585647886</accountNumber>
+    <description>Tickets for Daniël de Vries</description>
+    <startBalance>'50'</startBalance>
+    <mutation>+48.33</mutation>
+    <endBalance>143.36</endBalance>
+  </record>
+  <record reference="129635">
+    <accountNumber>NL27SNSB0917829871</accountNumber>
+    <description>Clothes for Vincent King</description>
+    <startBalance>null</startBalance>
+    <mutation>+16.39</mutation>
+    <endBalance>30.87</endBalance>
+  </record>
+  <record reference="148503">
+    <accountNumber>NL93ABNA0585619023</accountNumber>
+    <description>Subscription from Willem Dekker</description>
+    <startBalance>Null</startBalance>
+    <mutation>-13.18</mutation>
+    <endBalance>17.36</endBalance>
+  </record>
+  <record reference="163023">
+    <accountNumber>NL43AEGO0773393871</accountNumber>
+    <description>Tickets for Daniël de Vries</description>
+    <startBalance>'Michael'</startBalance>
+    <mutation>-40.84</mutation>
+    <endBalance>-3.05</endBalance>
+  </record>
+  <record reference="162410">
+    <accountNumber>NL69ABNA0433647324</accountNumber>
+    <description>Tickets from Jan Bakker</description>
+    <startBalance>'*^%$'</startBalance>
+    <mutation>-0.3</mutation>
+    <endBalance>9.8</endBalance>
+  </record> 
+</records>
